@@ -1,2 +1,2 @@
-# python learing journey
+# Python Learning Journey
  Daily Python learning and exercises repository
