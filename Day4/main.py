@@ -1,5 +1,4 @@
 import random 
-import my_module
 
 # a = random.randint(1,100)
 # print(a)
